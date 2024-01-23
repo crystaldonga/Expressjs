@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+:root{
+--main-bg:#1e272e;
+--main-color:#0097e6;
+}
+html{
+    font-size: 62.5%;
+}
+.row{
+    margin: 0;
+}
+.main_menu{
+    background-color: var(--main-bg);
+}
